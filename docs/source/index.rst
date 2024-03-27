@@ -1,12 +1,9 @@
-NerfAcc Documentation
+Seg2Reg Documentation
 ===================================
 
-NerfAcc is a PyTorch Nerf acceleration toolbox for both training and inference. It focus on
-efficient sampling in the volumetric rendering pipeline of radiance fields, which is 
-universal and plug-and-play for most of the NeRFs.
-With minimal modifications to the existing codebases, Nerfacc provides significant speedups 
-in training various recent NeRF papers.
-**And it is pure Python interface with flexible APIs!**
+State-of-the-art single-view 360◦ room layout recon002 struction methods formulate the problem as a high-level 1D (per-column) regression task.
+We present Seg2Reg to render 1D layout depth regression from the 2D segmentation map in a differentiable and occlusion-aware way, marrying the merits of
+both sides.
 
 |
 
