@@ -13,9 +13,9 @@ the merits of both sides.
 
 |
 
-| Github: https://github.com/nerfstudio-project/nerfacc
-| Paper: https://arxiv.org/pdf/2305.04966.pdf
-| Authors: `Ruilong Li`_, `Hang Gao`_, `Matthew Tancik`_, `Angjoo Kanazawa`_
+| Github: https://github.com/PanoLayoutStudio/PanoLayoutStudio.github.io
+| Paper: 
+| Authors: 
 
 .. note::
 
