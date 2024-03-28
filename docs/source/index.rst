@@ -15,5 +15,5 @@ a resource for future works to reuse or recombine various components.
 | Github: https://github.com/PanoLayoutStudio/PanoLayoutStudio.github.io
 | Paper: https://arxiv.org/abs/2311.18695
 | Authors: Cheng Sun, Wei-En Tai, Yu-Lin Shih, Kuan-Wei Chen, Yong-Jing Syu,
-|               Kent Selwyn The, Yu-Chiang Frank Wang, Hwann-Tzong Chen
+|                 Kent Selwyn The, Yu-Chiang Frank Wang, Hwann-Tzong Chen
 
