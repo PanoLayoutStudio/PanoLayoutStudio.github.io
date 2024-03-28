@@ -1,8 +1,8 @@
 .header-logo {
-    background-image: url("../images/test_logo.png");
-    background-size: 156px 35px;
-    height: 156px;
-    width: 35px;
+    background-image: url("../images/logo.png");
+    background-size: 166px 21px;
+    height: 166px;
+    width: 21px;
 }
 code {
     word-break: normal;
